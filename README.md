@@ -2,7 +2,7 @@
 
 ---
 
-## 📊 stats
+## stats
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aelionix&show_icons=true&theme=default&hide_border=true"/>
@@ -11,8 +11,18 @@
 
 ---
 
-## 🧠 stack
+## stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,git,github,html,css" />
-</p>
+### languages
+- python
+- javascript
+- java
+
+### backend
+- flask
+- node.js
+
+### frontend
+- react
+- html
+- css
