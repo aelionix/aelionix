@@ -14,15 +14,16 @@
 ## stack
 
 ### languages
-- python
-- javascript
-- java
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
 
 ### backend
-- flask
-- node.js
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,nodejs" />
+</p>
 
 ### frontend
-- react
-- html
-- css
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
